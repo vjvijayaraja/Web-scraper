@@ -43,17 +43,42 @@ This project offers a solution for efficiently extracting data from hyperlinks w
 
 
 
-
 ## Usage
-* Download the document containing the hyperlinks from which you want to extract data.
-* Ensure the document is named "Links to scrape.docx" for seamless processing.
-* Import the Document:
-* Clone the repository to your local machine.
-* Place the "Links to scrape.docx" document in the designated directory.
-* Launch the tool by following the provided instructions in the repository.
-* Enter the necessary prompts to initiate the data extraction process.
-* Upon completion of the scraping process, the tool will prompt you to save the extracted data.
-* Save the data into a text file for further analysis or use.
+
+To use this homework helper tool, follow these steps:
+
+1. **Clone the Repository:**
+   - Clone this repository to your local machine using Git:
+     ```bash
+     git clone https://github.com/vjvijayaraja/Web-scraper.git
+     ```
+2. **Run the Application:**
+   - Start the notepad application by running the following command:
+     ```bash
+     python challenge.py
+     ```
+
+3. **Download the Document:**
+   - Obtain the document that contains the hyperlinks from which you wish to extract data.
+
+4. **Document Naming:**
+   - Make sure the document is named "Links to scrape.docx" for seamless processing.
+
+5. **Import the Document:**
+   - Clone the repository to your local machine.
+   - Place the "Links to scrape.docx" document in the designated directory.
+
+6. **Launch the Tool:**
+   - Follow the provided instructions in the repository to start the tool.
+
+7. **Initiate Data Extraction:**
+   - Enter the necessary prompts as guided to start the data extraction process.
+
+8. **Save Extracted Data:**
+   - Upon completion of the scraping process, the tool will prompt you to save the extracted data.
+
+9. **Save Data for Further Use:**
+   - Save the extracted data into a text file for future analysis or any required purposes.
 
 ## Additional Notes:
 * Ensure that any dependencies required by the tool are installed on your system.
