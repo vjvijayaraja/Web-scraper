@@ -61,5 +61,5 @@ This project offers a solution for efficiently extracting data from hyperlinks w
 
 
 ## Credits
-Created Vijay Shrivarshan Vijayaraja  
+Created by Vijay Shrivarshan Vijayaraja  
 
